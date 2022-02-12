@@ -1,0 +1,30 @@
+{
+  "name": "to-do-list-nodejs",
+  "version": "1.0.0",
+  "description": "TO DO LIST APP USING NODEJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sainik-khaddar/TO-DO-LIST-nodejs.git"
+  },
+  "keywords": [
+    "TO",
+    "DO",
+    "LIST",
+    "NODEJS"
+  ],
+  "author": "Sainik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sainik-khaddar/TO-DO-LIST-nodejs/issues"
+  },
+  "homepage": "https://github.com/sainik-khaddar/TO-DO-LIST-nodejs#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "node-modules": "^1.0.1"
+  }
+}
